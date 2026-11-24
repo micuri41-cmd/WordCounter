@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WordCounter.Tests/WordCounter.Tests.csproj" />
+  <Project Path="WordCounter/WordCounter.csproj" />
+</Solution>
